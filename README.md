@@ -5,7 +5,7 @@ A simple example of how to do optical character recognition (OCR) on iOS.
 
 ### About
 
-This was a fun little project I did one night to see how well OCR performed on the iPhone using Tesseract (an OCR library). Luckily for me, some people have already done the heavy lifting (compliled the libraries for iOS, made wrappers, etc). Here, I've simply brought that all together in project that should have you going with minimal setup.
+This was a little project I did one night to see how well OCR performed on the iPhone using Tesseract (an OCR library). Luckily for me, some people have already done the heavy lifting (compliled the libraries for iOS, made wrappers, etc). Here, I've simply brought that all together in project that should have you going with minimal setup.
 
 ### Setup
 
@@ -14,6 +14,7 @@ This was a fun little project I did one night to see how well OCR performed on t
 3. Place your decompressed tesseract data in a folder called `tessdata` like this:
 
 ![image](https://raw.github.com/mstrchrstphr/OCR-iOS-Example/master/images/ocr-ios-screenshot01.png)
+
  
 That's it! The source code shouldn't be too difficult to follow. Feel free to do whatever you like with this.
 
