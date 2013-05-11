@@ -13,7 +13,7 @@ This was a fun little project I did one night to see how well OCR performed on t
 2. Go to [https://code.google.com/p/tesseract-ocr/downloads/list](https://code.google.com/p/tesseract-ocr/downloads/list) to download a language dataset.
 3. Place your decompressed tesseract data in a folder called `tessdata` like this:
 
-![image](http://)
+![image](https://raw.github.com/mstrchrstphr/OCR-iOS-Example/master/images/ocr-ios-screenshot01.png)
  
 That's it! The source code shouldn't be too difficult to follow. Feel free to do whatever you like with this.
 
